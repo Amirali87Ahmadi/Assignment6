@@ -1,0 +1,49 @@
+div{
+    background-color:whitesmoke;
+    margin: 40vh auto 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*border-style:double;
+    border-color: rgb(53, 52, 52);
+    border-width: 5px;*/
+    border-radius: 50px;
+    width: 980px;
+    margin-left: 60px;
+    padding:20 40 20 7;
+}
+div ul{
+    text-align: center;
+}
+div ul li{
+    list-style-type: none;
+    display: inline;
+    margin-top: 300px;
+}
+div ul li a{
+    text-decoration: none;
+    color: rgb(53, 52, 52);
+    background-color:aqua;
+    padding: 15 20 15 20;
+    border-style: double;
+    border-width: 1px;
+    border-color: rgb(53, 52, 52);
+    margin: -2px;
+}
+.amir:hover{
+    background-color:darkblue;
+    color: whitesmoke;
+    font-size: 17px;
+}
+.ali:hover{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 17px;
+}
+#reza{
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#mamad{
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
